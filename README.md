@@ -2,7 +2,7 @@
 
 安装：
 
-composer require weline/theme-fancy
+composer require weline/module-theme-fancy
 
 执行：
 

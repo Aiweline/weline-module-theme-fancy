@@ -1,7 +1,7 @@
 {
-  "name": "weline/theme-fancy",
+  "name": "weline/module-theme-fancy",
   "description": "前端Fancy主题",
-  "type": "weline-framework-module",
+  "type": "weline-module",
   "require": {
     "php": "^8.0"
   },
