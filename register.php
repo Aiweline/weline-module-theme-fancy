@@ -12,7 +12,7 @@ use Weline\Framework\Register\RegisterDataInterface;
 
 Register::register(
     RegisterDataInterface::MODULE,
-    'Aiweline_ThemeFancy',
+    'Weline_ThemeFancy',
     __DIR__,
     '1.0.0',
     '<a href="https://bbs.aiweline.com">前端Fancy模板</a>'

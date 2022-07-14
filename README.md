@@ -2,7 +2,7 @@
 
 安装：
 
-composer require aiweline/weline-framework-theme-fancy
+composer require weline/theme-fancy
 
 执行：
 
