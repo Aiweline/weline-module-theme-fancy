@@ -1,6 +1,6 @@
 {
   "name": "weline/theme-fancy",
-  "description": "网站监控",
+  "description": "前端Fancy主题",
   "type": "weline-framework-module",
   "require": {
     "php": "^8.0"
