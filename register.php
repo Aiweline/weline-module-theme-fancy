@@ -15,5 +15,8 @@ Register::register(
     'Weline_ThemeFancy',
     __DIR__,
     '1.0.0',
-    '<a href="https://bbs.aiweline.com">前端Fancy模板</a>'
+    '<a href="https://bbs.aiweline.com">前端Fancy模板</a>',
+    [
+        'Weline_Frontend'
+    ]
 );
